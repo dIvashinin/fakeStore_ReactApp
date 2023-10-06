@@ -57,7 +57,7 @@ function Home() {
         and a lot more for your taste
       </section>
       <section>go check yourself</section>
-      <img className="fake" src="/pics/fake.jpeg" alt="" />
+      <img className="fake" src="https://res.cloudinary.com/dzghua4dz/image/upload/f_auto,q_auto/v1/images/nvxheon07xigpyu5mbuk" alt="" />
       {/* <Footer /> */}
     </div>
   );
