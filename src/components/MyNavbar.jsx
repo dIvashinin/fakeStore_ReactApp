@@ -13,7 +13,7 @@ function MyNavbar() {
 
     //bootstrap
     <>
-    <Navbar bg="light" data-bs-theme="light" sticky="top">
+    <Navbar className="navigation" bg="light" data-bs-theme="light" sticky="top">
         <Container fluid>
           <Navbar.Brand to="/" as={NavLink}>FAKE.STORE</Navbar.Brand>
           <Nav className="me-auto">

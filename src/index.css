@@ -27,6 +27,12 @@ a:hover {
   padding: 0;
   
 }
+/* .navigation{
+  width: 50%;
+} */
+/* .me-auto, .login-register {
+  margin-right: -15px;
+} */
 /* .fake-store{
   position: sticky;
   top: 50px;
@@ -131,6 +137,8 @@ form{
   margin-top: 4px;
   
 }
+
+
 input{
   width: 45%;
   border-radius: 4px;
