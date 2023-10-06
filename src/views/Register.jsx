@@ -34,18 +34,18 @@ function Register() {
         <div className="register-input">
           <input
             type="text"
-            id="email"
+            // id="email"
             placeholder="enter your e-mail here"
             onChange={handleEmailChange}
-            autoComplete="email"
+            // autoComplete="email"
           />
           <label htmlFor="email"> </label> <br />
           <input
             type="password"
-            id="password"
+            // id="password"
             placeholder="enter your password here"
             onChange={handlePasswordChange}
-            autoComplete="new-password"
+            // autoComplete="new-password"
           />
         </div>
         <label htmlFor="password"> </label> <br />
